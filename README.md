@@ -3,7 +3,7 @@
 ## This is my personal portfolio made to showcase my work as a developer!
 
 <h2 align="center">
-  https://user-images.githubusercontent.com/82535909/211002513-9463c8c2-a43a-48a4-b6d4-0c28d62c2641.mp4
+  https://user-images.githubusercontent.com/82535909/211002513-9463c8c2-a43a-48a4-b6d4-0c28d62c2641.mov
   <br>
 </h2>
 
